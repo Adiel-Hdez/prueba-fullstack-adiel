@@ -1,14 +1,14 @@
-# 💼 Control y Gestión de Gastos — Full Stack
+# Control y Gestión de Gastos — Full Stack
 
 Aplicación web Full Stack para el registro, control presupuestario y categorización de gastos personales. Desarrollada como prueba técnica con una arquitectura desacoplada (Frontend en React + Backend en Node.js/Express) y una interfaz de usuario formal y moderna con Tailwind CSS.
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Frontend
 - **React 19** con **TypeScript**
-- **Vite 8** (Build tool ultrarrápido con HMR)
+- **Vite 8** (Build tool con HMR)
 - **Tailwind CSS v4** (Framework utilitario para diseño moderno y formal)
 - Arquitectura basada en componentes reutilizables y modales accesibles
 
@@ -20,7 +20,7 @@ Aplicación web Full Stack para el registro, control presupuestario y categoriza
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 1. **Dashboard Financiero y KPIs:**
    - Métricas en tiempo real: Total Acumulado, Cantidad de Transacciones y Promedio por Gasto.
@@ -46,7 +46,7 @@ Aplicación web Full Stack para el registro, control presupuestario y categoriza
 
 ---
 
-## 📋 Endpoints de la API REST
+## Endpoints de la API REST
 
 Base URL: `http://localhost:3000`
 
@@ -59,14 +59,14 @@ Base URL: `http://localhost:3000`
 
 ---
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 
 - [Node.js](https://nodejs.org/) (versión 18 o superior recomendada)
 - [npm](https://www.npmjs.com/) (incluido con Node.js)
 
 ---
 
-## ⚙️ Instalación y Puesta en Marcha
+## Instalación y Puesta en Marcha
 
 Clona el repositorio en tu máquina local si aún no lo tienes:
 
@@ -115,7 +115,7 @@ npm run dev
 
 ---
 
-## 📦 Scripts Disponibles
+## Scripts Disponibles
 
 ### Backend (`/backend`)
 - `npm run dev`: Inicia el servidor con recarga en vivo (`tsx watch src/index.ts`).
@@ -129,6 +129,6 @@ npm run dev
 
 ---
 
-## 👤 Autor
+## Autor
 
 - **Adiel Hdez** — [GitHub](https://github.com/Adiel-Hdez)
